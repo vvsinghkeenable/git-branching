@@ -1,2 +1,3 @@
 # git-branching
-Explain git branching model
+## Explain git branching model
+
